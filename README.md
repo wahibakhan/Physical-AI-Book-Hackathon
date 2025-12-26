@@ -1,1 +1,1 @@
-# Physical-AI--Book-Hackathon
+# Physical-AI-Book-Hackathon
